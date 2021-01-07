@@ -1,5 +1,3 @@
-[![screw-logo](https://images.gitee.com/uploads/images/2020/0728/155335_59a712d2_1407605.png)](https://github.com/pingfangushi/screw)
-
 💕 企业级开发过程中，一颗永不生锈的螺丝钉。
 
 [![LGPL3](https://img.shields.io/badge/license-LGPL3-blue.svg) ](https://github.com/pingfangushi/screw/blob/master/LICENSE)[![wiki](https://img.shields.io/badge/link-wiki-green.svg?style=flat-square) ](https://github.com/pingfangushi/screw)[![Maven Central](https://img.shields.io/maven-central/v/cn.smallbun.screw/screw-core) ](https://search.maven.org/search?q=cn.smallbun.screw)[![JDK Version](https://img.shields.io/badge/JDK-1.8+-green.svg) ](https://gitee.com/leshalv/screw/#)[![JDK Version](https://img.shields.io/badge/MAVEN-3.0+-green.svg)](https://gitee.com/leshalv/screw/#)
